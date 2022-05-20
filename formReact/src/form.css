@@ -1,0 +1,91 @@
+
+   
+
+
+.formDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 100%;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+.displayContent{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+.mb-2{
+    width: 200px;
+    height: 40px;
+}
+.rcdsAddDate{
+    border: 1px solid #999999;
+    padding: 10px;
+    width: 60%;
+}
+.childCountryProject{
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid #999999;
+    padding: 10px;
+    width: 60%;
+
+}
+
+
+.columnContent{
+    display: flex;
+    flex-direction: column; 
+    align-items: flex-start;
+}
+
+.rcdsAddDate{
+
+    border: 1px  solid #999999;
+    padding: 10px;
+}
+.dropdownStyle{
+    width: 200px;
+    height: 40px;
+    border: 1px solid #999999;
+}
+.inputDateStyle{
+    width: 175px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid #999999;
+    margin-left: 50px;
+}
+.ageRangeDiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.rcdsSecondDiv{
+    justify-content: flex-start;
+    align-items: center;
+}
+.fifthInnerDiv{
+    padding: 10px;
+    border: 1px solid #999999;
+    width: 60%;
+    border-radius: 8px;
+}
+.fifthDivInner{
+justify-content: flex-start;
+}
+
+.projectStyle{
+    background-color: #999999;
+    color: black;
+}
